@@ -1,1 +1,2 @@
-28497c02-4f8b-11e8-8461-acbc32d01525
+main :: IO()
+main = putStrLn "Doin' real work"
